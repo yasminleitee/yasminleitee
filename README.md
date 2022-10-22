@@ -1,4 +1,4 @@
-## 👋 Hellooo, meu nome é <strong>Yasmin Leite!</strong>
+## 👋 Helloooo, I’m <strong>Yasmin Leite!</strong>
 
 🔭 Estudante de ADS no IFSC
 
