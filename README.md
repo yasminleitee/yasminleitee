@@ -17,7 +17,7 @@
 <div align="block">
   <a href="https://github.com/yasminleite">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasminleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminleite&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminleite&layout=compact&langs_count==true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <br>
