@@ -1,4 +1,4 @@
-## 👋 Helloooo, I’m Yasmin Leite!
+## Helloooo, I’m Yasmin Leite!
 
 👩‍💻 Estudante de ADS no IFSC
 
