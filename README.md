@@ -4,7 +4,7 @@
 
 🦖 20 anos
 
-📍 Canoinhas - Santa Catarina 
+📫 yasmin11leite@gmail.com 
 
 ----
 
