@@ -15,6 +15,9 @@
 </div>
 
 ##
+<a href="https://github.com/AlexandreJusten">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=tokyonight&line_height=27" alt="**Alexandre Justen** github stats"/>
+</a>
 
 <div align="block">
   <a href="https://github.com/yasminleite">
