@@ -1,7 +1,4 @@
-
-# 🌃 Hello guys!
-
-## My name is Gustavo but u can call me Guu ^^
+Helloooo!
 
 <div align="block">
   <a href="https://github.com/yasminleite">
