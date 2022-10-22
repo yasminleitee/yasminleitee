@@ -2,7 +2,7 @@
 
 📚 Estudante de ADS no IFSC
 
-🚨 20 anos
+♈ 20 anos
 
 📫 yasmin11leite@gmail.com 
 
