@@ -1,9 +1,8 @@
-<div align="block">
-  <a href="https://github.com/Tyasminleitee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheGzuckert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+  <a href="https://github.com/yasminleite">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benersy1337&layout=compact&langs_count=7&theme=dark"/>
+    
 </div>
-  <br>
-  
 ## 
 
 #
