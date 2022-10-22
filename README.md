@@ -2,13 +2,13 @@
 
 👩‍💻 Estudante de ADS no IFSC
 
-🐱 20 anos
+🦖 20 anos
 
-🌿 Canoinhas - Santa Catarina 
+📍 Canoinhas - Santa Catarina 
 
 ----
 
-## **GitHub Estatísticas**
+##
 
 <a href="https://github.com/yasminleite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminleite&theme=tokyonight&hide_langs_below=1" />
@@ -18,4 +18,5 @@
 </a>
 
 <br>
+
 ![](https://komarev.com/ghpvc/?username=yasminleitet&color=DD6387)
