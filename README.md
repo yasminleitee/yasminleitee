@@ -10,12 +10,11 @@
 
 ##
 
-<a href="https://github.com/yasminleite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminleite&theme=tokyonight&hide_langs_below=1" />
-</a>
-<a href="https://github.com/yasminleite">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasminleite&show_icons=true&theme=tokyonight&line_height=27" alt="**Yasmin Leite** github stats"/>
-</a>
+<div align="block">
+  <a href="https://github.com/yasminleite">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  <br>
 
 <br>
 <br>
