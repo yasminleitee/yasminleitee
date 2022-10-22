@@ -8,4 +8,4 @@
 
 #
 	
-![](https://komarev.com/ghpvc/?username=yasminleiteet&color=DD6387)
+![](https://komarev.com/ghpvc/?username=yasminleitet&color=DD6387)
